@@ -21,6 +21,7 @@
 - 支持重复发送功能
 - 日志保存和统计信息查看
 - 自动串口扫描和刷新
+<img width="2559" height="1308" alt="image" src="https://github.com/user-attachments/assets/22a932b2-fdc4-47bb-a61c-d2ebbfe28fc4" />
 
 ### 2. 可视化界面 (MonitorTab)
 - 实时生理指标显示（体温、心率、运动状态）
