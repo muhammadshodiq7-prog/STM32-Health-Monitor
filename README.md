@@ -28,6 +28,7 @@
 - 多通道实时数据曲线图
 - 系统警报和健康建议显示
 - 数据保存/加载/清空功能
+<img width="2551" height="1295" alt="image" src="https://github.com/user-attachments/assets/f26d3583-9b90-45ff-8b9a-b2c19e1592d3" />
 
 ## 系统要求
 
