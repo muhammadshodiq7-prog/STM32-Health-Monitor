@@ -63,6 +63,8 @@ pip install pyqt6 pyqtgraph pyserial matplotlib numpy
 ```bash
 python install_pyqt6.py
 ```
+### 硬件连接方式
+<img width="865" height="1007" alt="image" src="https://github.com/user-attachments/assets/626023f9-aa16-4da6-8d69-a20f17b56289" />
 
 ## 运行方式
 
